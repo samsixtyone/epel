@@ -1,0 +1,18 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: sam61
+  description: EPEL repository for RHEL/CentOS.
+  company: "Sam CopyCat"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: EL
+    versions:
+    - 4
+    - 5
+    - 6
+    - 7
+  categories:
+    - packaging
